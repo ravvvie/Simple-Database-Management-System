@@ -6,7 +6,7 @@ Using SDL techs
 
 How to use:
 
-Unzip core file in /SDMS/IAR.zip
+Unzip core file in /App/IAR.zip
 
 ****************************************************************
 
